@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "",
+	"FriendlyName": "ParkourSystem",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "dgknstl",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false
+}
